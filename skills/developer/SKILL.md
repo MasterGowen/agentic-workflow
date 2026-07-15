@@ -51,12 +51,12 @@ description: "Skill for developer role"
 ## References
 - `references/testing-strategy.md` — пирамида тестов, fixtures, mocking, что и как покрывать
 - `references/legacy-code.md` — устаревшие паттерны, deprecated API, как работать не ломая
-<!-- Остальные технологические конвенции — в ../../_shared/references/ -->
-- `../../_shared/references/python/typing.md` — типизация, dataclasses, pydantic
-- `../../_shared/references/fastapi/routers.md` — роутеры, эндпоинты
-- `../../_shared/references/postgres/queries.md` — запросы, EXPLAIN, оптимизация
-- `../../_shared/references/docker/dockerfile.md` — Dockerfile, best practices
-- `../../_shared/references/mcp/server-design.md` — проектирование MCP-сервера
+<!-- Остальные технологические конвенции — в ../common-refs/references/ -->
+- `../common-refs/references/python/typing.md` — типизация, dataclasses, pydantic
+- `../common-refs/references/fastapi/routers.md` — роутеры, эндпоинты
+- `../common-refs/references/postgres/queries.md` — запросы, EXPLAIN, оптимизация
+- `../common-refs/references/docker/dockerfile.md` — Dockerfile, best practices
+- `../common-refs/references/mcp/server-design.md` — проектирование MCP-сервера
 
 ## Checklists
 - `checklists/code-quality.md` — проверка качества кода

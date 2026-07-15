@@ -44,7 +44,7 @@ description: "Skill for infra role"
 ## References
 - `references/ci-cd.md` — пайплайны сборки/тестов/линта/деплоя
 - `references/deployment.md` — стратегия релиза, окружения, rollback, секреты
-- `../../_shared/references/docker/dockerfile.md` — для продакшн-образов
+- `../common-refs/references/docker/dockerfile.md` — для продакшн-образов
 
 ## Checklists
 - `checklists/release-checklist.md` — чек-лист выпуска релиза
