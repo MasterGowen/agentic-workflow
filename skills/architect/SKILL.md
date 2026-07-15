@@ -1,3 +1,7 @@
+---
+name: architect
+description: "Skill for architect role"
+---
 # Architect
 
 ## Description
@@ -47,9 +51,9 @@
 - `references/planning.md` — декомпозиция задачи: scope, критерии готовности, риски, разбивка на шаги
 - `references/tradeoffs.md` — выбор между вариантами: критерии, вес, обратимость, стоимость отката
 - `references/adr-template.md` — шаблон ADR: статус, контекст, решение, альтернативы, последствия
-- `../../references/postgres/schema.md` — если задача касается БД
-- `../../references/fastapi/routers.md` — если задача касается API
-- `../../references/python/typing.md` — если задача касается типизации
+- `../../_shared/references/postgres/schema.md` — если задача касается БД
+- `../../_shared/references/fastapi/routers.md` — если задача касается API
+- `../../_shared/references/python/typing.md` — если задача касается типизации
 
 ## Checklists
 - `checklists/architecture-review.md` — проверка согласованности архитектуры
