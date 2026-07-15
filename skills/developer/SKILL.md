@@ -47,6 +47,7 @@
 ## References
 - `references/testing-strategy.md` — пирамида тестов, fixtures, mocking, что и как покрывать
 - `references/legacy-code.md` — устаревшие паттерны, deprecated API, как работать не ломая
+<!-- Остальные технологические конвенции — в ../../references/ -->
 - `../../references/python/typing.md` — типизация, dataclasses, pydantic
 - `../../references/fastapi/routers.md` — роутеры, эндпоинты
 - `../../references/postgres/queries.md` — запросы, EXPLAIN, оптимизация

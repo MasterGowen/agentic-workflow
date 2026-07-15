@@ -30,4 +30,4 @@
 - Не дублируй контекст из других ADR — дай ссылку
 
 ## Шаблон
-См. `architect/references/adr-template.md`
+См. `../../architect/references/adr-template.md`
