@@ -1,3 +1,7 @@
+---
+name: documentarian
+description: "Skill for documentarian role"
+---
 # Documentarian
 
 ## Description

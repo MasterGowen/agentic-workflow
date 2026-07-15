@@ -1,3 +1,7 @@
+---
+name: reviewer
+description: "Skill for reviewer role"
+---
 # Reviewer
 
 ## Description
@@ -44,8 +48,8 @@
 ## References
 - `references/code-review.md` — оценка diff/PR: корректность, конвенции, читаемость, риски
 - `references/refactoring.md` — безопасное изменение структуры без изменения поведения
-- `../../references/python/typing.md` — для проверки типизации
-- `../../references/fastapi/routers.md` — для проверки API
+- `../../_shared/references/python/typing.md` — для проверки типизации
+- `../../_shared/references/fastapi/routers.md` — для проверки API
 
 ## Checklists
 - `checklists/pr-review.md` — чек-лист проверки PR

@@ -1,3 +1,7 @@
+---
+name: developer
+description: "Skill for developer role"
+---
 # Developer
 
 ## Description
@@ -47,12 +51,12 @@
 ## References
 - `references/testing-strategy.md` — пирамида тестов, fixtures, mocking, что и как покрывать
 - `references/legacy-code.md` — устаревшие паттерны, deprecated API, как работать не ломая
-<!-- Остальные технологические конвенции — в ../../references/ -->
-- `../../references/python/typing.md` — типизация, dataclasses, pydantic
-- `../../references/fastapi/routers.md` — роутеры, эндпоинты
-- `../../references/postgres/queries.md` — запросы, EXPLAIN, оптимизация
-- `../../references/docker/dockerfile.md` — Dockerfile, best practices
-- `../../references/mcp/server-design.md` — проектирование MCP-сервера
+<!-- Остальные технологические конвенции — в ../../_shared/references/ -->
+- `../../_shared/references/python/typing.md` — типизация, dataclasses, pydantic
+- `../../_shared/references/fastapi/routers.md` — роутеры, эндпоинты
+- `../../_shared/references/postgres/queries.md` — запросы, EXPLAIN, оптимизация
+- `../../_shared/references/docker/dockerfile.md` — Dockerfile, best practices
+- `../../_shared/references/mcp/server-design.md` — проектирование MCP-сервера
 
 ## Checklists
 - `checklists/code-quality.md` — проверка качества кода

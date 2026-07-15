@@ -1,3 +1,7 @@
+---
+name: memory-keeper
+description: "Skill for memory-keeper role"
+---
 # Memory Keeper
 
 ## Description

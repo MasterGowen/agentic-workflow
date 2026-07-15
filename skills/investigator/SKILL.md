@@ -1,3 +1,7 @@
+---
+name: investigator
+description: "Skill for investigator role"
+---
 # Investigator
 
 ## Description
@@ -23,7 +27,7 @@
 
 ## Escalation
 - Найден баг, нужен фикс → `developer/`
-- Проблема производительности → `developer/` + `../../references/postgres/queries.md`
+- Проблема производительности → `developer/` + `../../_shared/references/postgres/queries.md`
 - Нужно перепроектировать компонент → `architect/`
 - Нужно проверить безопасность → `checklists/security-checklist.md`
 
@@ -43,8 +47,8 @@
 - `references/debugging.md` — методология: воспроизведение, изоляция, бисекция, анализ логов
 - `references/performance.md` — профилирование, бенчмарки, поиск узких мест
 - `references/observability.md` — логирование, метрики, трейсинг, health checks
-- `../../references/postgres/queries.md` — для диагностики медленных запросов
-- `../../references/python/async.md` — для диагностики async-проблем
+- `../../_shared/references/postgres/queries.md` — для диагностики медленных запросов
+- `../../_shared/references/python/async.md` — для диагностики async-проблем
 
 ## Checklists
 - `checklists/security-checklist.md` — чек-лист безопасности
