@@ -1,6 +1,6 @@
 ---
 name: documentarian
-description: "Skill for documentarian role"
+description: "Создание и обновление документации: README, docstring, ADR, CHANGELOG, технические документы. Триггеры: «напиши документацию / обнови README / составь ADR / CHANGELOG». Даёт документ по шаблону, согласованный с существующей документацией."
 ---
 # Documentarian
 
